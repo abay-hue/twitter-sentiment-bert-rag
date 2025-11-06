@@ -1,0 +1,9 @@
+transformers
+torch
+faiss-cpu
+pandas
+scikit-learn
+streamlit
+fastapi
+uvicorn
+python-dotenv
