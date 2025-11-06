@@ -1,0 +1,3 @@
+python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt datasets
+uvicorn src.api:app --reload
+streamlit run app/Home.py
