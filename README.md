@@ -3,6 +3,13 @@
 Fine-tuned BERT classifier + FAISS-backed RAG. Optional Streamlit UI and FastAPI endpoint.
 
 ## Quickstart
+
+## Demo
+- Screenshot/GIF here
+
+## Results
+- Metric table (e.g., accuracy / AUC / MAE)
+
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
